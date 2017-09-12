@@ -13,6 +13,6 @@ public class car {
         this.type = type;
     }
     public String carDetails(){
-        return "I have a " + this.colors + " " + this.type + " with" + this.doors + " doors.";
+        return "I have a " + this.colors + " " + this.type + " with " + this.doors + " doors.";
     }
 }

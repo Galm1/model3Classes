@@ -10,8 +10,8 @@ public class school {
         this.students = students;
         this.killingIt = killingIt;
     }
-    public String schoolDetails(){
-        return 
-    }
+//    public String schoolDetails(){
+//        return "I go to " + this.name +
+//    }
 }
 
